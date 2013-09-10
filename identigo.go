@@ -1,5 +1,5 @@
-// Package identicon creates a simple, two-color identicon from a provided byteString
-package identicon
+// Package identigo creates a simple, two-color identicon from a provided byteString
+package identigo
 
 import (
 	"crypto/md5"
